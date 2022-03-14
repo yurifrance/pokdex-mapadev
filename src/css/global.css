@@ -1,0 +1,16 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+main{
+    min-height: 100vh;
+    background-color: #DADFE8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pokedex{
+    display: flex; /* esse display flex faz com que os filho da pokedex fiquem em linha e por isso ele vai pro lado*/
+    gap: 30px; /* espaço entre os elementos */
+     padding: 30px 0;/* distancia da borda para o conteudo, primeiro é distanciamento superior e inf e o segundo é lateral */
+    
+}

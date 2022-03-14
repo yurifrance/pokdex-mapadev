@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; /*usado para o padding não somar com o tamanho do item e adaptar o item já com o padding (foi o que eu entendi*/
+    /* reset do css para retirar conf automaticas */
+}
+ul{
+    list-style-type: none;/* tirar os estilos das listas */
+
+}
